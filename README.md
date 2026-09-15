@@ -7,21 +7,15 @@ A beginner-level Python program that asks the user for their name, age, and favo
 Objectives
 
 Learn Python basics.
-
 Use input() to collect information.
-
 Store responses in variables.
-
 Use print() to display results.
-
 Practice strings and f-strings.
-
 Understand step-by-step program execution.
 
 Technologies
 
 Python 3
-
 GitHub
 
 Any Python-compatible editor
@@ -29,15 +23,10 @@ Any Python-compatible editor
 Setup and Installation
 
 Install Python 3.
-
 Verify installation with python --version.
-
 Clone or download this repository.
-
 Open a terminal in the project folder.
-
-Run python personal_intro.py.
-
+Run python personal_intro.
 No external libraries are required.
 
 Project Structure
@@ -50,13 +39,9 @@ personal-introduction/
 Technical Requirements
 
 input() collects name, age, and hobby.
-
 Variables store the user's answers.
-
 print() displays the welcome message.
-
 f-strings personalize the output.
-
 Three questions are included.
 
 What I Learned
@@ -68,15 +53,12 @@ Testing
 The program was tested with multiple sets of name, age, and hobby values. The entered information was displayed correctly in each test.
 
 Screenshot
+<img width="1644" height="947" alt="screenshot" src="https://github.com/user-attachments/assets/a1f199d3-91c3-482a-abe9-cd053fd68a9c" />
 
-Add the working-output screenshot to the repository.
 
 Future Improvements
 
 Add input validation.
-
 Convert age to an integer.
-
 Ask additional questions.
-
 Add a graphical interface.
